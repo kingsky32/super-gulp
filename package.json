@@ -1,0 +1,9 @@
+{
+  "name": "supergulp",
+  "version": "1.0.0",
+  "description": "Lean Gulp by build an awesome development environment",
+  "main": "index.js",
+  "repository": "https://github.com/kingsky32/super-gulp.git",
+  "author": "seungju <kingsky32@gmail.com>",
+  "license": "MIT"
+}
