@@ -16,6 +16,8 @@
     "@babel/register": "^7.11.5",
     "del": "^5.1.0",
     "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-csso": "^4.0.1",
     "gulp-image": "^6.2.1",
     "gulp-sass": "^4.1.0",
     "node-sass": "^4.14.1"
@@ -23,5 +25,8 @@
   "devDependencies": {
     "gulp-pug": "^4.0.1",
     "gulp-webserver": "^0.9.1"
-  }
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
 }
